@@ -3,8 +3,8 @@ name: GitHub-Profile-Summary-Cards
 on:
   create:
   push:
-  schedule: # execute every 24 hours
-    - cron: "* */24 * * *"
+  schedule: # 毎日JST0時 のはず
+    - cron: "0 15 * * *"
   workflow_dispatch:
 
 jobs:
@@ -13,9 +13,11 @@ jobs:
     name: generate
 
     steps:
-      - uses: actions/checkout@v2
-      - uses: vn7n24fzkq/github-profile-summary-cards@release
+      - uses: actions/checkout@v4
+      - uses: everyonelovesyou/github-profile-summary-cards@main
         env:
           GITHUB_TOKEN: ${{ secrets.SUMMARY_CARDS_TOKEN }}
         with:
           USERNAME: ${{ github.repository_owner }}
+          UTC_OFFSET: 9
+          EXCLUDE: "roff"
