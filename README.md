@@ -15,9 +15,7 @@ Here are some ideas to get you started:
 
 [![everyonelovesyou(K)'s GitHub stats](https://raw.githubusercontent.com/everyonelovesyou/everyonelovesyou/master/profile-summary-card-output/everyonelovesyou/0-profile-details.svg "everyonelovesyou(K)'s GitHub stats")][link]
 
-[![Top Langs by Repo](https://raw.githubusercontent.com/everyonelovesyou/everyonelovesyou/main/profile-summary-card-output/everyonelovesyou/1-repos-per-language.svg "Top Langs by Repo")][link]
-
-[![Top Langs by Commit](https://raw.githubusercontent.com/everyonelovesyou/everyonelovesyou/master/profile-summary-card-output/everyonelovesyou/2-most-commit-language.svg "Top Langs by Commit")][link]
+[![Top Langs by Repo](https://raw.githubusercontent.com/everyonelovesyou/everyonelovesyou/main/profile-summary-card-output/everyonelovesyou/1-repos-per-language.svg "Top Langs by Repo")][link]  [![Top Langs by Commit](https://raw.githubusercontent.com/everyonelovesyou/everyonelovesyou/master/profile-summary-card-output/everyonelovesyou/2-most-commit-language.svg "Top Langs by Commit")][link]
 
 [![Productive time (UTC +9.00)](https://raw.githubusercontent.com/everyonelovesyou/everyonelovesyou/master/profile-summary-card-output/everyonelovesyou/4-productive-time.svg "Productive time (UTC +9.00)")][link]
 
